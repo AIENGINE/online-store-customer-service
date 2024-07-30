@@ -1,0 +1,6 @@
+[submodule "online-cs"]
+	path = online-cs
+	url = git@github.com:AIENGINE/online-cs.git
+[submodule "online-cs-backend"]
+	path = online-cs-backend
+	url = git@github.com:AIENGINE/online-cs-backend.git
